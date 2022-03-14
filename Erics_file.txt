@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Just adding a line here. Hope it works. 
+=======
+Hello World!
+
+This is a new line :D
+
+someone was here
+>>>>>>> f4da293708e163eb22a52de2b8b3441d4b5361b7
